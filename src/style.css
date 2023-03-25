@@ -1,0 +1,39 @@
+h1 {
+    margin: 0px;
+    padding-left: 35%;
+    font-family: poppins, sans-serif;
+    border: 0.01em solid cadetblue;
+    color: crimson;
+    background-color: azure;
+} 
+
+th {
+    margin: 0px;
+    padding-left: 5px;
+    padding-right: 50px;
+    font-family: poppins, sans-serif;
+    color: crimson;
+    border-bottom: 0.01em solid cadetblue;
+    border-left: 0.01em solid cadetblue;
+    background-color: azure;
+}
+
+td {
+    border-bottom: 0.01em solid cadetblue;
+    border-left: 0.01em solid cadetblue;
+    font-size: small;
+}
+
+.tabela {
+    border: 0.01em solid cadetblue;
+    font-family: poppins, sans-serif;
+    color: aliceblue;
+}
+
+.coluna1 {
+    background-color: cadetblue;
+}
+
+.coluna2 {
+    background-color: rgb(128, 198, 201);
+}
